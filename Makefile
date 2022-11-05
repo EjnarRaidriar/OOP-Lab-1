@@ -3,4 +3,4 @@ output: LinkedList.o
 LinkedList.o: LinkedList.c
 	g++ -c LinkedList.c
 clean:
-	rm *.0 output
+	rm *.o output
